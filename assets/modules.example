@@ -1,0 +1,11 @@
+// app.js
+import $ from 'jquery';
+import { initForm } from './myapp.js';
+
+// myapp.js
+import FormSet from 'ponyjs/forms/formsets.js';
+
+export function initForm() {
+    var fs = FormSet('prefix');
+    // ...
+}

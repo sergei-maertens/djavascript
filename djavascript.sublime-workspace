@@ -1,0 +1,2285 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"trans",
+				"transaction"
+			],
+			[
+				"rcx",
+				"rcx_conf	statement"
+			],
+			[
+				"model",
+				"model_field	statement"
+			],
+			[
+				"rc",
+				"rcx_conf	statement"
+			],
+			[
+				"School",
+				"SchoolType	class"
+			],
+			[
+				"school",
+				"school_reservations	module"
+			],
+			[
+				"uui",
+				"uuid4	function"
+			],
+			[
+				"last_nae",
+				"last_name_prefix	statement"
+			],
+			[
+				"gr",
+				"groups-overview"
+			],
+			[
+				"Trans",
+				"TransactionWebTest	class"
+			],
+			[
+				"onderw",
+				"onderwijskaart"
+			],
+			[
+				"refr",
+				"reference"
+			],
+			[
+				"notimpl",
+				"NotImplementedError	class"
+			],
+			[
+				"cont",
+				"constants	module"
+			],
+			[
+				"in",
+				"inclusion_tag	function"
+			],
+			[
+				"re",
+				"reservation"
+			],
+			[
+				"onder",
+				"onderwijs"
+			],
+			[
+				"G",
+				"GroupFactory"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"Group",
+				"GroupCateringArticle	class"
+			],
+			[
+				"rser",
+				"reservation"
+			],
+			[
+				"onderwijs",
+				"onderwijskaart"
+			],
+			[
+				"Reserva",
+				"ReservationCredentialsForm	class"
+			],
+			[
+				"Web",
+				"WebTestMixin	class"
+			],
+			[
+				"url",
+				"urlresolvers	module"
+			],
+			[
+				"Api",
+				"APITestCase	class"
+			],
+			[
+				"GroupCater",
+				"GroupCateringView	class"
+			],
+			[
+				"get_Form",
+				"get_form_kwargs"
+			],
+			[
+				"newgrou",
+				"new_group_blocked"
+			],
+			[
+				"total",
+				"totalCatering"
+			],
+			[
+				"ligh",
+				"lightbox-open"
+			],
+			[
+				"lightbox",
+				"lightbox-container"
+			],
+			[
+				"inter",
+				"interceptSubmit"
+			],
+			[
+				"reverse",
+				"reverse_lazy	function"
+			],
+			[
+				"no",
+				"no_onderwijskaart_allowed"
+			],
+			[
+				"pos",
+				"postal_code"
+			],
+			[
+				"postal",
+				"postalCode"
+			],
+			[
+				"SchooL",
+				"SchoolSerializer	class"
+			],
+			[
+				"perfor",
+				"perform_create	function"
+			],
+			[
+				"SchooLse",
+				"SchoolSearchView	class"
+			],
+			[
+				"to",
+				"toggleInvoiceAddress"
+			],
+			[
+				"const",
+				"constructor"
+			],
+			[
+				"render",
+				"renderFormFieldErrors"
+			],
+			[
+				"posta",
+				"postalCode"
+			],
+			[
+				"errOje",
+				"errorObject"
+			],
+			[
+				"Schoolsear",
+				"SchoolSearchView	class"
+			],
+			[
+				"HTTP",
+				"HTTP_200_OK	statement"
+			],
+			[
+				"ex",
+				"exceptions	module"
+			],
+			[
+				"postal_",
+				"postal_code__iexact"
+			],
+			[
+				"SchoolSe",
+				"SchoolSearchForm	class"
+			],
+			[
+				"sear",
+				"searchForm"
+			],
+			[
+				"SChool",
+				"SchoolSearchView	class"
+			],
+			[
+				"GROUP",
+				"SESSION_GROUP_KEY	statement"
+			],
+			[
+				"sesison",
+				"session_reservation_required	statement"
+			],
+			[
+				"Reser",
+				"ReservationCredentialsForm	class"
+			],
+			[
+				"Rser",
+				"ReservationCredentialsForm	class"
+			],
+			[
+				"Luncmo",
+				"LunchMoments	class"
+			],
+			[
+				"groupcater",
+				"groupcateringarticle_set-0-id"
+			],
+			[
+				"lunch",
+				"lunch_moment"
+			],
+			[
+				"groupcate",
+				"groupcateringarticle_set-0-id"
+			],
+			[
+				"arti",
+				"article"
+			],
+			[
+				"assertIn",
+				"assertInHTML	function"
+			],
+			[
+				"cate",
+				"catering_articles"
+			],
+			[
+				"cre",
+				"credentials	statement"
+			],
+			[
+				"SchoolRe",
+				"SchoolCredentialsView	class"
+			],
+			[
+				"ticket",
+				"tickets-plus"
+			],
+			[
+				"tempalt",
+				"templatetags	module"
+			],
+			[
+				"templat",
+				"templatetags	module"
+			],
+			[
+				"Cater",
+				"CateringArticleChoiceField	class"
+			],
+			[
+				"ini",
+				"initial_article	statement"
+			],
+			[
+				"GrouPCatea",
+				"GroupCateringArticleInline	class"
+			],
+			[
+				"Goup",
+				"GroupCateringArticleInline"
+			],
+			[
+				"mpos",
+				"mpossmallint	PositiveSmallIntegerField (mpossmallint)"
+			],
+			[
+				"microp",
+				"micropia_slot"
+			],
+			[
+				"hide",
+				"hide-until-selected"
+			],
+			[
+				"num",
+				"number_of_work_days	statement"
+			],
+			[
+				"lesso",
+				"lessonRadio"
+			],
+			[
+				"Lesslcho",
+				"LessonSlotChoiceIterator	class"
+			],
+			[
+				"pr",
+				"property	New Property"
+			],
+			[
+				"NotI",
+				"NotImplementedError	class"
+			],
+			[
+				"Slot",
+				"SlotChoiceField	class"
+			],
+			[
+				"Micropa",
+				"MicropiaSlot"
+			],
+			[
+				"StepTest",
+				"StepTestMixin	class"
+			],
+			[
+				"SlotChoice",
+				"SlotChoiceIterator	class"
+			],
+			[
+				"ModelChioce",
+				"ModelChoiceIterator	class"
+			],
+			[
+				"Mi",
+				"MicropiaSlot	class"
+			],
+			[
+				"ModelForm",
+				"ModelFormMixin	class"
+			],
+			[
+				"Lesso",
+				"LessonSlotInline	class"
+			],
+			[
+				"raw",
+				"raw_id_fields"
+			],
+			[
+				"Micr",
+				"MicropiaSlotAdmin	class"
+			],
+			[
+				"pro",
+				"property	class"
+			],
+			[
+				"Expos",
+				"ExpositionSlot	class"
+			],
+			[
+				"Expo",
+				"ExpositionSlot	class"
+			],
+			[
+				"mdate",
+				"mdatetime	DateTimeField (mdatetime)"
+			],
+			[
+				"error_mes",
+				"error_messages"
+			],
+			[
+				"get_form",
+				"get_form_kwargs"
+			],
+			[
+				"GroupOp",
+				"GroupOptionsView	class"
+			],
+			[
+				"date",
+				"dateutil	module"
+			],
+			[
+				"is",
+				"isinstance	function"
+			],
+			[
+				"from",
+				"fromordinal	function"
+			],
+			[
+				"reu",
+				"recurrence"
+			],
+			[
+				"dat",
+				"dateutil	module"
+			],
+			[
+				"revers",
+				"reverse_lazy	function"
+			],
+			[
+				"artis",
+				"artismicropia	statement"
+			],
+			[
+				"StepTe",
+				"StepTestMixin	class"
+			],
+			[
+				"SteT",
+				"StepTestMixin	class"
+			],
+			[
+				"djang",
+				"django_get_or_create"
+			],
+			[
+				"remo",
+				"removeTicketSelector"
+			],
+			[
+				"addt",
+				"addTicketSelector"
+			],
+			[
+				"GroupDet",
+				"GroupDetailsView	class"
+			],
+			[
+				"SESSION",
+				"SESSION_STEP_KEY	statement"
+			],
+			[
+				"update",
+				"update_wrapper	function"
+			],
+			[
+				"register",
+				"register_step"
+			],
+			[
+				"Schoo",
+				"SchoolReservationMixin	class"
+			],
+			[
+				"GroupDt",
+				"GroupDetailsView	class"
+			],
+			[
+				"GroupCre",
+				"GroupCreateView	class"
+			],
+			[
+				"schoo",
+				"schoolType"
+			],
+			[
+				"fchoi",
+				"fmochoice	ModelChoiceField (fmochoice)"
+			],
+			[
+				"SESIO",
+				"SESSION_RESERVATION_KEY	statement"
+			],
+			[
+				"PROE",
+				"PROTECT	function"
+			],
+			[
+				"o",
+				"onderwijskaart"
+			],
+			[
+				"verbose_na",
+				"verbose_name_plural"
+			],
+			[
+				"auto",
+				"auto_now_add	param"
+			],
+			[
+				"Si",
+				"SiteLabels	class"
+			],
+			[
+				"label",
+				"label_templates	module"
+			],
+			[
+				"Produ",
+				"ProductTypes	class"
+			],
+			[
+				"recre",
+				"recreatex"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 52.0,
+		"last_filter": "projectcl",
+		"selected_items":
+		[
+			[
+				"projectcl",
+				"Project: Close"
+			],
+			[
+				"ugla",
+				"Snippet: ugettext_lazy"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"sub",
+				"Sublimerge: Compare Foremost Views"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"closea",
+				"File: Close All"
+			],
+			[
+				"projclo",
+				"Project: Close"
+			],
+			[
+				"trans",
+				"Snippet: trans"
+			],
+			[
+				"super",
+				"Snippet: block.super"
+			],
+			[
+				"tag",
+				"Snippet: tag braces"
+			],
+			[
+				"sspydja",
+				"Set Syntax: Python (Django)"
+			],
+			[
+				"block",
+				"Snippet: block"
+			],
+			[
+				"refresh",
+				"Project: Refresh Folders"
+			],
+			[
+				"include",
+				"Snippet: include"
+			],
+			[
+				"sshdja",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"sublimer",
+				"Sublimerge: Compare Foremost Views"
+			],
+			[
+				"extends",
+				"Snippet: extends"
+			],
+			[
+				"load",
+				"Snippet: load"
+			],
+			[
+				"blocktra",
+				"Snippet: blocktrans"
+			],
+			[
+				"for",
+				"Snippet: for"
+			],
+			[
+				"blocktrans",
+				"Snippet: blocktrans"
+			],
+			[
+				"uget",
+				"Snippet: ugettext_lazy"
+			],
+			[
+				"snicomme",
+				"Snippet: comment"
+			],
+			[
+				"blockr",
+				"Snippet: blocktrans"
+			],
+			[
+				"var",
+				"Snippet: context variable (var)"
+			],
+			[
+				"srftoke",
+				"Snippet: csrf_token"
+			],
+			[
+				"ugela",
+				"Snippet: ugettext_lazy"
+			],
+			[
+				"if",
+				"Snippet: if"
+			],
+			[
+				"closeall",
+				"File: Close All"
+			],
+			[
+				"url",
+				"Snippet: url"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"gitcomm",
+				"Git: Amend Commit"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"blocktras",
+				"Snippet: blocktrans"
+			],
+			[
+				"tagbra",
+				"Snippet: tag braces"
+			],
+			[
+				"facmo",
+				"Snippet: factory model"
+			],
+			[
+				"ugetl",
+				"Snippet: ugettext_lazy"
+			],
+			[
+				"closeal",
+				"File: Close All"
+			],
+			[
+				"blcoktrans",
+				"Snippet: blocktrans"
+			],
+			[
+				"init",
+				"Snippet: init"
+			],
+			[
+				"csrf",
+				"Snippet: csrf_token"
+			],
+			[
+				"l",
+				"Convert Case: Lower Case"
+			],
+			[
+				"each",
+				"Snippet: each(handlebars)"
+			],
+			[
+				"else",
+				"Snippet: else"
+			],
+			[
+				"vari",
+				"Snippet: context variable (var)"
+			],
+			[
+				"modead",
+				"Snippet: ModelAdmin"
+			],
+			[
+				"elif",
+				"Snippet: elif"
+			],
+			[
+				"comment",
+				"Snippet: comment"
+			],
+			[
+				"textpastrange",
+				"Text Pastry: Range"
+			],
+			[
+				"texpa",
+				"Text Pastry: Add selection"
+			],
+			[
+				"ugetla",
+				"Snippet: ugettext_lazy"
+			],
+			[
+				"reuse",
+				"Preferences: Settings - User"
+			],
+			[
+				"admin",
+				"Snippet: ModelAdmin"
+			],
+			[
+				"adm",
+				"Snippet: ModelAdmin"
+			],
+			[
+				"modadmin",
+				"Snippet: ModelAdmin"
+			],
+			[
+				"textpas",
+				"Text Pastry: Range"
+			],
+			[
+				"modeladm",
+				"Snippet: ModelAdmin"
+			],
+			[
+				"uetla",
+				"Snippet: ugettext_lazy"
+			],
+			[
+				"static",
+				"Snippet: static"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"subfa",
+				"Snippet: subfactory"
+			],
+			[
+				"famo",
+				"Snippet: factory model"
+			],
+			[
+				"fac",
+				"Snippet: factory model"
+			],
+			[
+				"fact",
+				"Snippet: factory model"
+			],
+			[
+				"ugel",
+				"Snippet: ugettext_lazy"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"blotra",
+				"Snippet: blocktrans"
+			],
+			[
+				"csrfto",
+				"Snippet: csrf_token"
+			],
+			[
+				"extens",
+				"Snippet: extends"
+			],
+			[
+				"prj",
+				"Project: Close"
+			],
+			[
+				"LOWER",
+				"Convert Case: Lower Case"
+			],
+			[
+				"saveall",
+				"File: Save All"
+			],
+			[
+				"projcl",
+				"Project: Close"
+			],
+			[
+				"lowr",
+				"Convert Case: Lower Case"
+			],
+			[
+				"ssrst",
+				"Set Syntax: reStructuredText Improved"
+			],
+			[
+				"fa",
+				"Snippet: factory model"
+			],
+			[
+				"shower",
+				"Anaconda: Show error list"
+			],
+			[
+				"anaconda",
+				"Anaconda: Set Python interpreter"
+			],
+			[
+				"coding",
+				"Snippet: coding: utf-8"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssplai",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"disablelin",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"comparefor",
+				"Sublimerge: Compare Foremost Views"
+			],
+			[
+				"closa",
+				"File: Close All"
+			],
+			[
+				"sublimerge",
+				"Sublimerge: Compare Foremost Views"
+			],
+			[
+				"UPPER",
+				"Convert Case: Upper Case"
+			],
+			[
+				"projeclo",
+				"Project: Close"
+			],
+			[
+				"subfac",
+				"Snippet: subfactory"
+			],
+			[
+				"famode",
+				"Snippet: factory model"
+			],
+			[
+				"adminre",
+				"Snippet: admin_register"
+			],
+			[
+				"clsoeall",
+				"File: Close All"
+			],
+			[
+				"posint",
+				"Snippet: PositiveIntegerField (mposint)"
+			],
+			[
+				"fk",
+				"Snippet: ForeignKey (fk)"
+			],
+			[
+				"newview",
+				"File: New View into File"
+			],
+			[
+				"projectlo",
+				"Project: Close"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"projectl",
+				"Project: Close"
+			],
+			[
+				"showe",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"uge",
+				"Snippet: ugettext_lazy"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"pep",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"ssshel",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"modfac",
+				"Snippet: DjangoModelFactory"
+			],
+			[
+				"ug",
+				"Snippet: ugettext_lazy"
+			],
+			[
+				"mbool",
+				"Snippet: BooleanField (mbool)"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"format",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"mtext",
+				"Snippet: TextField (mtext)"
+			],
+			[
+				"mchar",
+				"Snippet: CharField (mchar)"
+			],
+			[
+				"block.s",
+				"Snippet: block.super"
+			],
+			[
+				"Load",
+				"Snippet: load"
+			],
+			[
+				"murl",
+				"Snippet: URLField (murl)"
+			],
+			[
+				"emailfi",
+				"Snippet: EmailField (memail)"
+			],
+			[
+				"shel",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"factory",
+				"Snippet: factory model"
+			],
+			[
+				"now",
+				"Snippet: now"
+			],
+			[
+				"facor",
+				"Snippet: factory model"
+			],
+			[
+				"adminreg",
+				"Snippet: admin_register"
+			],
+			[
+				"inclu",
+				"Snippet: include"
+			],
+			[
+				"sshtmldja",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"smalp",
+				"Snippet: PositiveSmallIntegerField (mpossmallint)"
+			],
+			[
+				"projectclose",
+				"Project: Close"
+			],
+			[
+				"blocs",
+				"Snippet: block.super"
+			],
+			[
+				"field",
+				"Snippet: field"
+			],
+			[
+				"sshtmldj",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"use",
+				"Snippet: use"
+			],
+			[
+				"ssdja",
+				"Set Syntax: HTML (Django)"
+			]
+		],
+		"width": 407.0
+	},
+	"console":
+	{
+		"height": 129.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/utils/rcx.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/recreatex/functions.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/artis_recreatex/management/commands/syncrecreatex.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/conf/recreatex37.wsdl",
+		"/home/bbt/coding/.virtualenvs/artis-boekingsstraat/lib/python2.7/site-packages/django/db/models/manager.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/managers.py",
+		"/home/bbt/coding/.virtualenvs/artis-boekingsstraat/lib/python2.7/site-packages/django/utils/decorators.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/conf/base/common.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/admin.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/models/schools.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/views/groups.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/management/commands/sync_external.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/forms.py",
+		"/home/bbt/coding/.virtualenvs/artis-boekingsstraat/lib/python2.7/site-packages/bpdb/__init__.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/recreatex/utils.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/utils/mail.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/utils/__init__.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/utils.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/.git/COMMIT_EDITMSG",
+		"/home/bbt/coding/.virtualenvs/artis-boekingsstraat/lib/python2.7/site-packages/django/core/management/base.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/management/__init__.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/log/suds.log",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/artis_recreatex/tests/test_soap_service.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/conf/recreatex35.wsdl",
+		"/home/bbt/Desktop/rcx.log",
+		"/home/bbt/coding/maykin/artis-tickets-2/.git/hooks/pre-commit",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/conf/scopecrm.wsdl",
+		"/home/bbt/coding/maykin/artis-tickets/log/suds.log",
+		"/home/bbt/coding/maykin/artis-tickets/recreatex/functions.py",
+		"/home/bbt/coding/maykin/artis-tickets/website/settings/base.py",
+		"/home/bbt/coding/.virtualenvs/artis-boekingsstraat/lib/python2.7/site-packages/suds/client.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/artis_recreatex/utils/recreatex.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/conf/recreatex5.11.wsdl",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/scopecrm/tests.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/deployment/README",
+		"/home/bbt/coding/maykin/artis-tickets-2/deployment/maykin-deployment/README",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/boekingsstraat/dagtickets/templates/boekingsstraat/dagtickets/stap6.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/boekingsstraat/memberships/views.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/boekingsstraat/donations/views.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/boekingsstraat/dagtickets/views.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/bin/get_scope_wsdl.sh",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/conf/base/production.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/templates/includes/ga.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/boekingsstraat/utils.py",
+		"/home/bbt/coding/.virtualenvs/artis-boekingsstraat/lib/python2.7/site-packages/django/utils/translation/__init__.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/artis_recreatex/utils/scopecrm.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/artis_recreatex/models.py",
+		"/home/bbt/presentations/spectacle/.git/rebase-merge/git-rebase-todo",
+		"/home/bbt/coding/maykin/artis-tickets-2/mail/20160216-185936-140037298364624.log",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/mail/confirmation.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/static/jspm_packages/npm/babel-runtime@5.8.35/core-js.js",
+		"/home/bbt/coding/maykin/artis-tickets-2/static/config.js",
+		"/home/bbt/coding/maykin/artis-tickets-2/static/jspm_packages/npm/babel-polyfill@6.3.14/dist/polyfill.js",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/static/school_reservations/js/group-options.js",
+		"/home/bbt/coding/maykin/artis-tickets-2/.git/MERGE_MSG",
+		"/home/bbt/coding/maykin/artis-tickets-2/static/jspm_packages/npm/babel-polyfill@6.3.14/lib/index.js",
+		"/home/bbt/coding/maykin/artis-tickets-2/static/jspm_packages/npm/babel-polyfill@6.3.14/lib.js",
+		"/home/bbt/coding/maykin/artis-tickets-2/static/jspm_packages/npm/babel-polyfill@6.3.14.js",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/templates/_base.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/boekingsstraat/templates/boekingsstraat/base.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/templates/sniplates/menu.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/base.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/templates/includes/menu_back.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/views/reservation.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/tests/test_step1.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/.git/rebase-merge/git-rebase-todo",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/models/reservations.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/models/groups.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/add_group.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/static/school_reservations/js/add_group.js",
+		"/home/bbt/coding/maykin/artis-tickets-2/static/school_reservations/js/credentials.js",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/models/catering.py",
+		"/home/bbt/coding/modelbrouwers/brouwers/src/brouwers/general/db_router.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/boekingsstraat/templates/boekingsstraat/emails/includes/introduction.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/overview.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/confirmation.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/boekingsstraat/templates/boekingsstraat/emails/order_confirmation_artis.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/mail/confirmation.txt",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/templates/mail/_base.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/templates/sniplates/mail.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/boekingsstraat/templates/boekingsstraat/emails/includes/itemtable-title.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/boekingsstraat/templates/boekingsstraat/emails/includes/content.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/static/school_reservations/stylesheets/_groups_overview.scss",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/groups/overview.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/boekingsstraat/templates/boekingsstraat/emails/includes/artis/style.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/conf/base/local.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/mail/20160216-104928-139741067654544.log",
+		"/home/bbt/coding/.virtualenvs/artis-boekingsstraat/lib/python2.7/site-packages/django/core/mail/backends/filebased.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/mail/20160216-104041-140068656582096.log",
+		"/home/bbt/coding/maykin/artis-tickets-2/.gitignore",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/tests/test_step6.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/conf/base/dev.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/templates/artis/mail/base.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/boekingsstraat/templates/boekingsstraat/emails/base_micropia.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/boekingsstraat/templates/boekingsstraat/emails/order_confirmation.txt",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/templates/micropia/mail/base.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/boekingsstraat/templates/boekingsstraat/emails/base_artis.html",
+		"/home/bbt/coding/.virtualenvs/artis-boekingsstraat/lib/python2.7/site-packages/django/core/mail/utils.py",
+		"/home/bbt/coding/.virtualenvs/artis-boekingsstraat/lib/python2.7/site-packages/label_templates/loaders.py",
+		"/home/bbt/coding/.virtualenvs/artis-boekingsstraat/lib/python2.7/site-packages/label_templates/sites.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/send_mail.py",
+		"/home/bbt/coding/.virtualenvs/artis-boekingsstraat/lib/python2.7/site-packages/django/views/generic/detail.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/views/mixins.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/boekingsstraat/templates/boekingsstraat/includes/follow_us.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/templatetags/reservation_tags.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/static/stylesheets/mixins/_content.scss",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/templates/sniplates/forms.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/boekingsstraat/static/boekingsstraat/stylesheets/atoms/_content.scss",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/boekingsstraat/static/boekingsstraat/stylesheets/atoms/_all.scss",
+		"/home/bbt/coding/maykin/artis-tickets-2/static/stylesheets/mixins/_content.scss",
+		"/home/bbt/coding/maykin/artis-tickets-2/static/boekingsstraat/stylesheets/atoms/_content.scss",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/boekingsstraat/templates/boekingsstraat/emails/order_confirmation_micropia.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/forms.html",
+		"/home/bbt/coding/.virtualenvs/artis-boekingsstraat/lib/python2.7/site-packages/django/views/generic/base.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/docs/remarks.rst",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/tests/test_models.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/tests/test_step5.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/views/steps.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/group_catering.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/groups/full_overview.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/static/stylesheets/base/atoms/_content.scss",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/tests/utils.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/tests/test_step2.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/tests/test_group_edit.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/urls.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/views/__init__.py",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/school_credentials.html",
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/static/school_reservations/stylesheets/_groups_overview.scss"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/home/bbt/coding/maykin/artis-tickets-2/src,",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.py",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.html",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.py",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.js,*.html",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.js",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.html",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.py",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.html",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.py",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.html",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.scss",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.py",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.scss",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.py",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.scss",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.hbs,*.js,*.html",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.js",
+			"/home/bbt/coding/maykin/artis-tickets-2/deployment",
+			"/home/bbt/coding/maykin/artis-tickets-2/src/,*.scss",
+			"/home/bbt/coding/maykin/artis-tickets-2/src/,*.py",
+			"/home/bbt/coding/maykin/artis-tickets-2/src/,*.html,*.js",
+			"/home/bbt/coding/maykin/artis-tickets-2/src/,*.html",
+			"/home/bbt/coding/maykin/artis-tickets-2/,*.html",
+			"/home/bbt/coding/maykin/artis-tickets-2/,*.js",
+			"/home/bbt/coding/maykin/artis-tickets-2/,*.yml",
+			"/home/bbt/coding/maykin/artis-tickets-2/,*.html",
+			"/home/bbt/coding/maykin/artis-tickets-2/,*.scss",
+			"/home/bbt/coding/maykin/artis-tickets-2/,*.py",
+			"/home/bbt/coding/maykin/artis-tickets-2/,*.yml,*.conf,*.j2",
+			"/home/bbt/coding/maykin/artis-tickets-2/,*.yml",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.yml",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.html",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.scss",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.html",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.py",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.html",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.py",
+			"/home/bbt/coding/maykin/artis-tickets-2/src",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.scss",
+			"/home/bbt/coding/maykin/artis-tickets-2/src",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.po",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.py",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.js",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.html",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.py",
+			"/home/bbt/coding/maykin/artis-tickets,*.scss",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.scss",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.html,*.js",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.html,*.py",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.html",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.html,*.js,*.py",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.html,*.js",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.py",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.html",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.html,*.js",
+			"/home/bbt/coding/maykin/artis-tickets-2/src",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,-*.py,-*.po",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,-*.py",
+			"/home/bbt/coding/maykin/artis-tickets-2/src",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.html,*.js,*.scss",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.html,*.js",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.html",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.scss",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.js,*.html",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.scss",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.js,*.html,*.scss,*.py",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.js,*.html,*.scss",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.js,*.html",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.js,*.py",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.js,*.html",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.py,*.html",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.py",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.html",
+			"/home/bbt/coding/maykin/artis-tickets-2/src,*.py",
+			"/home/bbt/coding/maykin/nudge/src,*.py",
+			"/home/bbt/coding/maykin/nudge/,*.py",
+			"/home/bbt/coding/.virtualenvs/nudge/,*.py",
+			"/home/bbt/coding/maykin/nudge/src,*.py",
+			"/home/bbt/coding/maykin/nudge/src,*.scss",
+			"/home/bbt/coding/maykin/nudge/src,*.py",
+			"/home/bbt/coding/maykin/nudge/src,*.scss",
+			"/home/bbt/coding/maykin/nudge/src,*.html",
+			"/home/bbt/coding/maykin/nudge/src,*.scss",
+			"/home/bbt/coding/maykin/nudge/src,*.html",
+			"/home/bbt/coding/maykin/nudge/src,*.scss",
+			"/home/bbt/coding/maykin/nudge/src,*.py",
+			"/home/bbt/coding/maykin/nudge/src,*.html",
+			"/home/bbt/coding/maykin/nudge/src,*.py",
+			"/home/bbt/coding/maykin/nudge/src,*.html",
+			"/home/bbt/coding/maykin/nudge/src,*.scss",
+			"/home/bbt/coding/maykin/nudge/src,*.html",
+			"/home/bbt/coding/maykin/nudge/src,*.py",
+			"/home/bbt/coding/maykin/nudge/src,*.html",
+			"/home/bbt/coding/maykin/nudge/src,*.py",
+			"/home/bbt/coding/maykin/nudge/src,*.scss",
+			"/home/bbt/coding/maykin/nudge/src,*.py",
+			"/home/bbt/coding/maykin/nudge/src,*.html",
+			"/home/bbt/coding/maykin/nudge/src,*.py",
+			"/home/bbt/coding/maykin/nudge/src,*.html",
+			"/home/bbt/coding/maykin/nudge/src,*.py",
+			"/home/bbt/coding/maykin/nudge/src,*models.py",
+			"/home/bbt/coding/maykin/nudge/src,*.py",
+			"/home/bbt/coding/maykin/nudge/src,*.html",
+			"/home/bbt/coding/maykin/nudge/src,*.py",
+			"/home/bbt/coding/maykin/nudge/src,*.js",
+			"/home/bbt/coding/maykin/nudge/src,*.html",
+			"/home/bbt/coding/maykin/nudge/src,*.py",
+			"/home/bbt/coding/maykin/nudge/src,*.html",
+			"/home/bbt/coding/maykin/nudge/src,*.py",
+			"/home/bbt/coding/.virtualenvs/nudge/lib/python2.7/site-packages/raven",
+			"/home/bbt/coding/maykin/nudge/src/,*.py,/home/bbt/coding/.virtualenvs/nudge/lib/python2.7/site-packages",
+			"/home/bbt/coding/maykin/nudge/src/,*.py",
+			"/home/bbt/coding/maykin/nudge/src/,*.html,*.js",
+			"/home/bbt/coding/maykin/nudge/src/,*.scss",
+			"/home/bbt/coding/maykin/nudge/src/,*.html",
+			"/home/bbt/coding/maykin/nudge/src/,*.js",
+			"/home/bbt/coding/.virtualenvs/nudge/lib/python2.7/site-packages, *.py",
+			"/home/bbt/coding/maykin/nudge/src/nudge/,/home/bbt/coding/.virtualenvs/nudge/lib/python2.7/site-packages, *.py",
+			"/home/bbt/coding/maykin/nudge/src/nudge/,/home/bbt/coding/.virtualenvs/nudge/lib/python2.7/site-packages*.py",
+			"/home/bbt/coding/maykin/nudge/src/nudge/,*.py",
+			"/home/bbt/coding/maykin/nudge/src/nudge/,*.py,-migrations",
+			"/home/bbt/coding/maykin/nudge/src/nudge/",
+			"/home/bbt/coding/maykin/nudge/src/nudge/,*.html",
+			"/home/bbt/coding/maykin/nudge/src/nudge/,/home/bbt/coding/.virtualenvs/nudge/lib/python2.7/site-packages/zinnia",
+			"/home/bbt/coding/maykin/nudge/src/nudge/,/home/bbt/coding/.virtualenvs/nudge/lib/python2.7/site-packages",
+			"/home/bbt/coding/maykin/nudge/src/nudge/",
+			"/home/bbt/coding/maykin/nudge/src/nudge/,/home/bbt/coding/.virtualenvs/nudge/lib/python2.7/site-packages"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"defaults",
+			"model_field",
+			"listexpositioncategories",
+			"requires_system_checks",
+			"ExpositionSubscriptionItem",
+			"ExpositionSubscriptionItems",
+			"print",
+			"http://schemas.microsoft.com/2003/10/Serialization/",
+			"validationresult",
+			"recreatex.be/webshop/",
+			"3.0",
+			".*wsdl",
+			"recreatex*wsdl",
+			"acceptatie",
+			"123456789A",
+			"extra_js",
+			"GOOGLE_ANALYTICS_KEY",
+			"datetime\\.",
+			"+",
+			"typekit",
+			"These",
+			"ArrayProto",
+			"includes",
+			"header-back-button",
+			"menu_back.html",
+			"back_label",
+			"back_url",
+			"main-page-header",
+			"header-back-button",
+			"menu_back",
+			"go-back",
+			"includes",
+			"print",
+			"info@artis.nl",
+			"info@artis.html",
+			"searchForm",
+			"; }",
+			"line ",
+			"button",
+			"localhost",
+			"DJANGO_PROJECT_DIR",
+			"static",
+			"logo",
+			"#72bf44",
+			" #72bf44",
+			"#72bf44",
+			"http://artis.nl",
+			"#000",
+			";\n",
+			"follow_us.html",
+			"max-width: 580",
+			"> p",
+			".content",
+			"\\{\\{ (.+?) \\}\\}",
+			"self.object",
+			"=",
+			"_set_last_step",
+			"alter",
+			"border",
+			"color",
+			"aside",
+			"clear_current_group",
+			"clear_current_grouop",
+			"404",
+			": ",
+			"margin",
+			"lesson_slot",
+			"list-style",
+			"unstyled",
+			"group.",
+			"postcode",
+			"page.forms[0]",
+			"__all__",
+			"len(trs)",
+			"page\\.form",
+			"page.form",
+			"page.",
+			"You've completed all options",
+			"150",
+			"front-end.yml",
+			"include",
+			"align-items",
+			"group\\.",
+			"flex",
+			" = ",
+			"first",
+			"^[a-z]",
+			"animate",
+			"getData",
+			"schoolfield",
+			"unique",
+			"non_field_errors",
+			"get: ",
+			"createFrom",
+			"flex",
+			"heckboxinput",
+			"templates",
+			"response",
+			"validation",
+			"error",
+			"validationerror",
+			"validation",
+			"loading",
+			"loader-spinner",
+			"%}\n",
+			":",
+			"=",
+			"queryset",
+			"get_factory_kwargs",
+			"self\\.extra",
+			".form-row",
+			"dateinput",
+			"instance",
+			"scroll",
+			"value=value",
+			"select",
+			"{{ id_suffix }}",
+			"}}\">\n",
+			"}}{{ id_suffix }}\">",
+			"{{ id_suffix }}",
+			"raw_value",
+			"assert",
+			"primair onderwijs",
+			"school_reservations.unavailability",
+			"{{ project_home }}",
+			"slot_dict",
+			"ObjChoiceField",
+			"micropia-slot"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"ticket_tags",
+			"eindhoven",
+			".get_image|thumbnail_url",
+			"{{ $1 }}",
+			"{{ $1 }},",
+			"admin_site",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 88.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "djavascript.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"views/groups",
+				"artis-tickets-2/src/artis_tickets/school_reservations/views/groups.py"
+			],
+			[
+				"common.py",
+				"artis-tickets-2/src/artis_tickets/conf/base/common.py"
+			],
+			[
+				"syncrecreate",
+				"artis-tickets-2/src/artis_tickets/artis_recreatex/management/commands/syncrecreatex.py"
+			],
+			[
+				"recreatex35",
+				"artis-tickets-2/src/artis_tickets/conf/recreatex35.wsdl"
+			],
+			[
+				"functions.py",
+				"artis-tickets-2/src/artis_tickets/recreatex/functions.py"
+			],
+			[
+				"testsoapser",
+				"artis-tickets-2/src/artis_tickets/artis_recreatex/tests/test_soap_service.py"
+			],
+			[
+				"scopewsdl",
+				"artis-tickets-2/src/artis_tickets/conf/scopecrm.wsdl"
+			],
+			[
+				"suds/client",
+				"site-packages/suds/client.py"
+			],
+			[
+				"recreatex/func",
+				"artis-tickets-2/src/artis_tickets/recreatex/functions.py"
+			],
+			[
+				"arti_recrutils/re",
+				"artis-tickets-2/src/artis_tickets/artis_recreatex/utils/recreatex.py"
+			],
+			[
+				"test_soap_servi",
+				"artis-tickets-2/src/artis_tickets/artis_recreatex/tests/test_soap_service.py"
+			],
+			[
+				"deployment/read",
+				"artis-tickets-2/deployment/maykin-deployment/README"
+			],
+			[
+				"dagtickets/stap6.html",
+				"artis-tickets-2/src/artis_tickets/boekingsstraat/dagtickets/templates/boekingsstraat/dagtickets/stap6.html"
+			],
+			[
+				"memberships/views",
+				"artis-tickets-2/src/artis_tickets/boekingsstraat/memberships/views.py"
+			],
+			[
+				"donations/view",
+				"artis-tickets-2/src/artis_tickets/boekingsstraat/donations/views.py"
+			],
+			[
+				"dagtickets/view",
+				"artis-tickets-2/src/artis_tickets/boekingsstraat/dagtickets/views.py"
+			],
+			[
+				"ga.html",
+				"artis-tickets-2/src/artis_tickets/templates/includes/ga.html"
+			],
+			[
+				"wsdl.sh",
+				"artis-tickets-2/bin/get_scope_wsdl.sh"
+			],
+			[
+				"recreatex/funct",
+				"artis-tickets-2/src/artis_tickets/recreatex/functions.py"
+			],
+			[
+				"boekingsstraat/utils",
+				"artis-tickets-2/src/artis_tickets/boekingsstraat/utils.py"
+			],
+			[
+				"membership/views",
+				"artis-tickets-2/src/artis_tickets/boekingsstraat/memberships/views.py"
+			],
+			[
+				"artisrecreatutiscop",
+				"artis-tickets-2/src/artis_tickets/artis_recreatex/utils/scopecrm.py"
+			],
+			[
+				"conf/common",
+				"artis-tickets-2/src/artis_tickets/conf/base/common.py"
+			],
+			[
+				"artis_recreat/models",
+				"artis-tickets-2/src/artis_tickets/artis_recreatex/models.py"
+			],
+			[
+				"recrewsd",
+				"artis-tickets-2/src/artis_tickets/conf/recreatex35.wsdl"
+			],
+			[
+				"mail/confirmation.html",
+				"artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/mail/confirmation.html"
+			],
+			[
+				"config.js",
+				"artis-tickets-2/static/config.js"
+			],
+			[
+				"corejs",
+				"artis-tickets-2/static/jspm_packages/npm/babel-runtime@5.8.35/core-js.js"
+			],
+			[
+				"babel-polyfill",
+				"artis-tickets-2/static/jspm_packages/npm/babel-polyfill@6.3.14.js"
+			],
+			[
+				"credentials.js",
+				"artis-tickets-2/static/school_reservations/js/credentials.js"
+			],
+			[
+				"add_group.html",
+				"artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/add_group.html"
+			],
+			[
+				"school_reservations/groupos",
+				"artis-tickets-2/static/school_reservations/stylesheets/_groups_overview.scss"
+			],
+			[
+				"style.html",
+				"artis-tickets-2/src/artis_tickets/boekingsstraat/templates/boekingsstraat/emails/includes/artis/style.html"
+			],
+			[
+				"introduction.html",
+				"artis-tickets-2/src/artis_tickets/boekingsstraat/templates/boekingsstraat/emails/includes/introduction.html"
+			],
+			[
+				"local.py",
+				"artis-tickets-2/src/artis_tickets/conf/base/local.py"
+			],
+			[
+				"mail/base.html",
+				"artis-tickets-2/src/artis_tickets/templates/mail/_base.html"
+			],
+			[
+				".giti",
+				"artis-tickets-2/.gitignore"
+			],
+			[
+				"django/core/mail/backendsfile",
+				"site-packages/django/core/mail/backends/filebased.py"
+			],
+			[
+				"teststep6",
+				"artis-tickets-2/src/artis_tickets/school_reservations/tests/test_step6.py"
+			],
+			[
+				"base_micropia",
+				"artis-tickets-2/src/artis_tickets/boekingsstraat/templates/boekingsstraat/emails/base_micropia.html"
+			],
+			[
+				"labeltemplate",
+				"site-packages/label_templates/loaders.py"
+			],
+			[
+				"school_resutils",
+				"artis-tickets-2/src/artis_tickets/school_reservations/utils.py"
+			],
+			[
+				"mail/utils",
+				"site-packages/django/core/mail/utils.py"
+			],
+			[
+				"artis/style.html",
+				"artis-tickets-2/src/artis_tickets/boekingsstraat/templates/boekingsstraat/emails/includes/artis/style.html"
+			],
+			[
+				"base_micropia.ht",
+				"artis-tickets-2/src/artis_tickets/boekingsstraat/templates/boekingsstraat/emails/base_micropia.html"
+			],
+			[
+				"base_artis.html",
+				"artis-tickets-2/src/artis_tickets/boekingsstraat/templates/boekingsstraat/emails/base_artis.html"
+			],
+			[
+				"test_step6",
+				"artis-tickets-2/src/artis_tickets/school_reservations/tests/test_step6.py"
+			],
+			[
+				"school_resrvations/confirmation.html",
+				"artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/confirmation.html"
+			],
+			[
+				"order_confirmation.xt",
+				"artis-tickets-2/src/artis_tickets/boekingsstraat/templates/boekingsstraat/emails/order_confirmation.txt"
+			],
+			[
+				"moels/rserva",
+				"artis-tickets-2/src/artis_tickets/school_reservations/models/reservations.py"
+			],
+			[
+				"reservationtags",
+				"artis-tickets-2/src/artis_tickets/school_reservations/templatetags/reservation_tags.py"
+			],
+			[
+				"boekingsstraat/follow",
+				"artis-tickets-2/src/artis_tickets/boekingsstraat/templates/boekingsstraat/includes/follow_us.html"
+			],
+			[
+				"_overview",
+				"artis-tickets-2/static/school_reservations/stylesheets/_groups_overview.scss"
+			],
+			[
+				"_content.scss",
+				"artis-tickets-2/static/boekingsstraat/stylesheets/atoms/_content.scss"
+			],
+			[
+				"follow_us",
+				"artis-tickets-2/src/artis_tickets/boekingsstraat/templates/boekingsstraat/includes/follow_us.html"
+			],
+			[
+				"confirmation.html",
+				"artis-tickets-2/src/artis_tickets/boekingsstraat/templates/boekingsstraat/emails/order_confirmation_micropia.html"
+			],
+			[
+				"models/school",
+				"artis-tickets-2/src/artis_tickets/school_reservations/models/schools.py"
+			],
+			[
+				"overview.html",
+				"artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/overview.html"
+			],
+			[
+				"sniplates/forms",
+				"artis-tickets-2/src/artis_tickets/templates/sniplates/forms.html"
+			],
+			[
+				"docs/",
+				"artis-tickets-2/docs/remarks.rst"
+			],
+			[
+				"models/reervatio",
+				"artis-tickets-2/src/artis_tickets/school_reservations/models/reservations.py"
+			],
+			[
+				"_content.sss",
+				"artis-tickets-2/static/boekingsstraat/stylesheets/atoms/_content.scss"
+			],
+			[
+				"reservation_tags",
+				"artis-tickets-2/src/artis_tickets/school_reservations/templatetags/reservation_tags.py"
+			],
+			[
+				"django/views/base",
+				"site-packages/django/views/generic/base.py"
+			],
+			[
+				"schooresermodelsgroup",
+				"artis-tickets-2/src/artis_tickets/school_reservations/models/groups.py"
+			],
+			[
+				"schoolreserview",
+				"artis-tickets-2/src/artis_tickets/school_reservations/api/views.py"
+			],
+			[
+				"catering.py",
+				"artis-tickets-2/src/artis_tickets/school_reservations/models/catering.py"
+			],
+			[
+				"credentials.html",
+				"artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/school_credentials.html"
+			],
+			[
+				"faker/address",
+				"site-packages/faker/providers/address/__init__.py"
+			],
+			[
+				"schoolreservationfacto",
+				"artis-tickets-2/src/artis_tickets/school_reservations/tests/factories.py"
+			],
+			[
+				".coveragerc",
+				"artis-tickets-2/.coveragerc"
+			],
+			[
+				"django/testcase",
+				"site-packages/django/test/testcases.py"
+			],
+			[
+				"steps.py",
+				"artis-tickets-2/src/artis_tickets/school_reservations/views/steps.py"
+			],
+			[
+				"step4",
+				"artis-tickets-2/src/artis_tickets/school_reservations/tests/test_step4.py"
+			],
+			[
+				"models/dates",
+				"artis-tickets-2/src/artis_tickets/school_reservations/models/dates.py"
+			],
+			[
+				"catering.js",
+				"artis-tickets-2/static/school_reservations/js/group-catering.js"
+			],
+			[
+				"groupcatering",
+				"artis-tickets-2/static/school_reservations/js/group-catering.js"
+			],
+			[
+				"django/contrib/messages",
+				"site-packages/django/contrib/messages/__init__.py"
+			],
+			[
+				"school_reservations/base.ht",
+				"artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/base.html"
+			],
+			[
+				"django/form/forms",
+				"site-packages/django/forms/forms.py"
+			],
+			[
+				"catering.html",
+				"artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/group_catering.html"
+			],
+			[
+				"models/gorup",
+				"artis-tickets-2/src/artis_tickets/school_reservations/models/groups.py"
+			],
+			[
+				"testsetp4",
+				"artis-tickets-2/src/artis_tickets/school_reservations/tests/test_step4.py"
+			],
+			[
+				"schoolreservationforms.html",
+				"artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/forms.html"
+			],
+			[
+				"artis-recre/models",
+				"artis-tickets-2/src/artis_tickets/artis_recreatex/models.py"
+			],
+			[
+				"package.json",
+				"artis-tickets-2/package.json"
+			],
+			[
+				"updatetrans",
+				"artis-tickets-2/bin/update_translations.sh"
+			],
+			[
+				"_formscss",
+				"artis-tickets-2/static/school_reservations/stylesheets/_forms.scss"
+			],
+			[
+				"caterin.html",
+				"artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/group_catering.html"
+			],
+			[
+				"urls.py",
+				"artis-tickets-2/src/artis_tickets/school_reservations/urls.py"
+			],
+			[
+				"sniplate/forms",
+				"artis-tickets-2/src/artis_tickets/templates/sniplates/forms.html"
+			],
+			[
+				"forms.html",
+				"artis-tickets-2/src/artis_tickets/templates/sniplates/forms.html"
+			],
+			[
+				"schoolres_forms",
+				"artis-tickets-2/static/school_reservations/stylesheets/_forms.scss"
+			],
+			[
+				"models/schools",
+				"artis-tickets-2/src/artis_tickets/school_reservations/models/schools.py"
+			],
+			[
+				"artisrecreatexmodels",
+				"artis-tickets-2/src/artis_tickets/artis_recreatex/models.py"
+			],
+			[
+				"reservations.py",
+				"artis-tickets-2/src/artis_tickets/school_reservations/models/reservations.py"
+			],
+			[
+				"schoolreser/forms.",
+				"artis-tickets-2/src/artis_tickets/school_reservations/forms.py"
+			],
+			[
+				"schoolreser_forms",
+				"artis-tickets-2/static/school_reservations/stylesheets/_forms.scss"
+			],
+			[
+				"_formsscss",
+				"artis-tickets-2/src/artis_tickets/static/stylesheets/mixins/_forms.scss"
+			],
+			[
+				"scope/view",
+				"artis-tickets-2/src/artis_tickets/scopecrm/views.py"
+			],
+			[
+				"boekingssmodzipcode",
+				"artis-tickets-2/static/boekingsstraat/js/modules/zip-code-lookup.js"
+			],
+			[
+				"loaderspinner.html",
+				"artis-tickets-2/src/artis_tickets/boekingsstraat/templates/boekingsstraat/includes/loader_spinner.html"
+			],
+			[
+				"boekingsstraat/stap4",
+				"artis-tickets-2/src/artis_tickets/boekingsstraat/donations/templates/boekingsstraat/donations/stap4.html"
+			],
+			[
+				"forms.py",
+				"artis-tickets-2/src/artis_tickets/school_reservations/forms.py"
+			],
+			[
+				"api/serializer",
+				"artis-tickets-2/src/artis_tickets/school_reservations/api/serializers.py"
+			],
+			[
+				"django/db/modelsbase",
+				"site-packages/django/db/models/base.py"
+			],
+			[
+				"rest_framework/serial",
+				"site-packages/rest_framework/serializers.py"
+			],
+			[
+				"restframseria",
+				"site-packages/hvad/contrib/restframework/serializers.py"
+			],
+			[
+				"dev.py",
+				"artis-tickets-2/src/artis_tickets/conf/base/dev.py"
+			],
+			[
+				"readme.rst",
+				"artis-tickets-2/README.rst"
+			],
+			[
+				"sniplates",
+				"site-packages/sniplates/templatetags/sniplates.py"
+			],
+			[
+				"api/views",
+				"artis-tickets-2/src/artis_tickets/school_reservations/api/views.py"
+			],
+			[
+				"field_error",
+				"artis-tickets-2/static/templates/field_error.hbs"
+			],
+			[
+				"jspm_pcakagesjquery.js",
+				"artis-tickets-2/static/jspm_packages/npm/jquery@2.2.0/dist/jquery.js"
+			],
+			[
+				"django.html",
+				"site-packages/sniplates/templates/sniplates/django.html"
+			],
+			[
+				"_formsscs",
+				"artis-tickets-2/static/school_reservations/stylesheets/_forms.scss"
+			],
+			[
+				"credentialshtml",
+				"artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/school_credentials.html"
+			],
+			[
+				"schoolforms.py",
+				"artis-tickets-2/src/artis_tickets/school_reservations/forms.py"
+			],
+			[
+				"credential.js",
+				"artis-tickets-2/src/artis_tickets/school_reservations/static/school_reservations/js/credentials.js"
+			],
+			[
+				"schoolreservations/viewsgroup",
+				"artis-tickets-2/src/artis_tickets/school_reservations/views/groups.py"
+			],
+			[
+				"djangoglobal.py",
+				"site-packages/django/conf/global_settings.py"
+			],
+			[
+				"rosetta/view",
+				"site-packages/rosetta/views.py"
+			],
+			[
+				"rosetta/views",
+				"site-packages/rosetta/views.py"
+			],
+			[
+				"staging.py",
+				"artis-tickets-2/src/artis_tickets/conf/base/staging.py"
+			],
+			[
+				"rosetta/",
+				"site-packages/rosetta/signals.py"
+			],
+			[
+				"restframeexce",
+				"site-packages/rest_framework/exceptions.py"
+			],
+			[
+				"django/forms/utils",
+				"site-packages/django/forms/utils.py"
+			],
+			[
+				"rest_framworkpermi",
+				"site-packages/rest_framework/permissions.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "artis",
+		"selected_items":
+		[
+			[
+				"artis",
+				"~/coding/maykin/artis.sublime-project"
+			],
+			[
+				"sniplates",
+				"~/coding/sniplates.sublime-project"
+			],
+			[
+				"artistiket",
+				"~/coding/maykin/artis-tickets.sublime-project"
+			],
+			[
+				"langerak",
+				"~/coding/langerak-gkv/langerak.sublime-project"
+			],
+			[
+				"ony",
+				"~/coding/modelbrouwers/ponyjs.sublime-project"
+			],
+			[
+				"artisticket",
+				"~/coding/maykin/artis-tickets.sublime-project"
+			],
+			[
+				"brouwer",
+				"~/coding/modelbrouwers/brouwers.sublime-project"
+			],
+			[
+				"brouwers",
+				"~/coding/modelbrouwers/brouwers.sublime-project"
+			],
+			[
+				"artis-tic",
+				"~/coding/maykin/artis-tickets.sublime-project"
+			],
+			[
+				"ponyjs",
+				"~/coding/modelbrouwers/ponyjs.sublime-project"
+			],
+			[
+				"disco",
+				"~/coding/discord.sublime-project"
+			],
+			[
+				"vips",
+				"~/coding/maykin/vips.sublime-project"
+			],
+			[
+				"artisti",
+				"~/coding/maykin/artis-tickets.sublime-project"
+			],
+			[
+				"nudge",
+				"~/coding/maykin/nudge.sublime-project"
+			],
+			[
+				"pon",
+				"~/coding/modelbrouwers/ponyjs.sublime-project"
+			],
+			[
+				"rege",
+				"~/coding/regex.sublime-project"
+			],
+			[
+				"mijke",
+				"~/coding/mijke.sublime-project"
+			],
+			[
+				"pony",
+				"~/coding/modelbrouwers/ponyjs.sublime-project"
+			],
+			[
+				"brou",
+				"~/coding/modelbrouwers/brouwers.sublime-project"
+			],
+			[
+				"b",
+				"~/coding/modelbrouwers/brouwers.sublime-project"
+			],
+			[
+				"langer",
+				"/home/bbt/coding/langerak-gkv/langerak/langerak.sublime-project"
+			],
+			[
+				"hdov",
+				"/home/bbt/coding/maykin/hdov.sublime-project"
+			],
+			[
+				"leesrijk",
+				"/home/bbt/coding/maykin/leesrijk.sublime-project"
+			],
+			[
+				"leesr",
+				"/home/bbt/coding/maykin/leesrijk.sublime-project"
+			],
+			[
+				"modelbrouw",
+				"/home/bbt/coding/modelbrouwers/brouwers.sublime-project"
+			],
+			[
+				"doeleim",
+				"/home/bbt/coding/pronoia/doelenimport.sublime-project"
+			],
+			[
+				"vps",
+				"/home/bbt/coding/vps.sublime-project"
+			],
+			[
+				"school",
+				"/home/bbt/coding/pronoia/schoolonline-local.sublime-project"
+			],
+			[
+				"schoo",
+				"/home/bbt/coding/pronoia/schoolonline-local.sublime-project"
+			],
+			[
+				"metamixi",
+				"/home/bbt/coding/maykin/meta-mixin.sublime-project"
+			],
+			[
+				"schoolloc",
+				"/home/bbt/coding/pronoia/schoolonline-local.sublime-project"
+			],
+			[
+				"scho",
+				"/home/bbt/coding/pronoia/schoolonline-local.sublime-project"
+			],
+			[
+				"scholon",
+				"/home/bbt/coding/pronoia/schoolonline-local.sublime-project"
+			],
+			[
+				"scholo",
+				"/home/bbt/coding/pronoia/schoolonline-local.sublime-project"
+			],
+			[
+				"schoolonline",
+				"/home/bbt/coding/pronoia/schoolonline.sublime-project"
+			],
+			[
+				"doele",
+				"/home/bbt/coding/pronoia/doelenimport.sublime-project"
+			],
+			[
+				"formu",
+				"/home/bbt/coding/maykin/formulation.sublime-project"
+			],
+			[
+				"for",
+				"/home/bbt/coding/maykin/formulation.sublime-project"
+			],
+			[
+				"",
+				"/home/bbt/coding/modelbrouwers/brouwers.sublime-project"
+			],
+			[
+				"formulation",
+				"/home/bbt/coding/maykin/formulation.sublime-project"
+			],
+			[
+				"form",
+				"/home/bbt/coding/maykin/formulation.sublime-project"
+			],
+			[
+				"hdvo",
+				"/home/bbt/coding/maykin/hdov.sublime-project"
+			],
+			[
+				"langera",
+				"/home/bbt/coding/langerak/langerak.sublime-project"
+			],
+			[
+				"bfeu",
+				"/home/bbt/coding/bfeu/bfeu.sublime-project"
+			],
+			[
+				"brouw",
+				"/home/bbt/coding/modelbrouwers/brouwers.sublime-project"
+			],
+			[
+				"hd",
+				"/home/bbt/coding/maykin/hdov.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

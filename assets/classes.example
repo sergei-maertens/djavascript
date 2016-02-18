@@ -1,0 +1,14 @@
+import Form from 'ponyjs/forms/form.js';
+
+
+export default class PizzaForm extends Form {
+
+    constructor(prefix='pizza', ...args) {
+        super(...args);
+        this.prefix = prefix;
+    }
+
+    get template() {
+        // ...
+    }
+}

@@ -1,0 +1,7 @@
+// app.js
+import $ from 'jquery';
+import { initForm } from './myapp.js';
+
+$(function() {
+    initForm();
+});

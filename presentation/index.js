@@ -153,7 +153,7 @@ export default class Presentation extends React.Component {
               margin="20px auto"
             />
 
-            <Text>
+            <Text textAlign="left">
               <S type="strikethrough">(global) scope polution</S>, <S type="strikethrough">loading files</S>
             </Text>
           </Slide>
@@ -168,8 +168,8 @@ export default class Presentation extends React.Component {
               margin="20px auto"
             />
 
-            <Text>OOP more within reach</Text>
-            <Text>Spread operator (*args, anyone?), defaults</Text>
+            <Text textAlign="left">OOP more within reach</Text>
+            <Text textAlign="left">Spread operator (*args, anyone?), defaults</Text>
           </Slide>
 
 

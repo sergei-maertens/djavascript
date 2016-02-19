@@ -1,0 +1,13 @@
+let pizzas = [
+    {id: 1, name: 'Hawaii', veggie: false},
+    {id: 2, name: 'Pepperoni', veggie: false},
+    {id: 3, name: 'Calzone', veggie: false},
+    {id: 4, name: 'Quattro formaggi', veggie: true},
+];
+
+
+let names = pizzas.map(pizza => pizza.name);
+// ['Hawaii', 'Pepperoni', 'Calzone', 'Quattro formaggi']
+
+let veggie = pizzas.filter(pizza => pizza.veggie);
+// [{id: 4, name: 'Quattro formaggi'}]

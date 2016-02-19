@@ -519,6 +519,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "presentation/index.js",
+			"settings":
+			{
+				"buffer_size": 8629,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/classes.example",
+			"settings":
+			{
+				"buffer_size": 238,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -527,10 +543,22 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 52.0,
-		"last_filter": "projectcl",
+		"height": 92.0,
+		"last_filter": "ssjane",
 		"selected_items":
 		[
+			[
+				"ssjane",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"ssreac",
+				"Set Syntax: React Templates"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				"projectcl",
 				"Project: Close"
@@ -916,10 +944,6 @@
 				"Project: Close"
 			],
 			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
 				"projectl",
 				"Project: Close"
 			],
@@ -1034,17 +1058,9 @@
 			[
 				"sshtmldj",
 				"Set Syntax: HTML (Django)"
-			],
-			[
-				"use",
-				"Snippet: use"
-			],
-			[
-				"ssdja",
-				"Set Syntax: HTML (Django)"
 			]
 		],
-		"width": 407.0
+		"width": 467.0
 	},
 	"console":
 	{
@@ -1063,8 +1079,15 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/home/bbt/presentations/djavascript",
+		"/home/bbt/presentations/djavascript/presentation"
+	],
 	"file_history":
 	[
+		"/home/bbt/presentations/djavascript/.gitignore",
+		"/home/bbt/presentations/djavascript/assets/modules2.example",
 		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/utils/rcx.py",
 		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/recreatex/functions.py",
 		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/artis_recreatex/management/commands/syncrecreatex.py",
@@ -1190,9 +1213,7 @@
 		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/tests/test_step2.py",
 		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/tests/test_group_edit.py",
 		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/urls.py",
-		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/views/__init__.py",
-		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/school_credentials.html",
-		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/static/school_reservations/stylesheets/_groups_overview.scss"
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/views/__init__.py"
 	],
 	"find":
 	{
@@ -1338,6 +1359,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"markdown",
+			"</Text>",
+			"<S type",
+			"<S",
+			"list",
+			"markdown",
+			"</Slide>",
 			"defaults",
 			"model_field",
 			"listexpositioncategories",
@@ -1458,14 +1486,7 @@
 			"}}\">\n",
 			"}}{{ id_suffix }}\">",
 			"{{ id_suffix }}",
-			"raw_value",
-			"assert",
-			"primair onderwijs",
-			"school_reservations.unavailability",
-			"{{ project_home }}",
-			"slot_dict",
-			"ObjChoiceField",
-			"micropia-slot"
+			"raw_value"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1491,8 +1512,73 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "presentation/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8629,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4710,
+								4710
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/React Templates/react-templates.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1795.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/classes.example",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								229,
+								229
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -2070,9 +2156,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "artis",
+		"last_filter": "disc",
 		"selected_items":
 		[
+			[
+				"disc",
+				"~/coding/discord.sublime-project"
+			],
 			[
 				"artis",
 				"~/coding/maykin/artis.sublime-project"
@@ -2277,7 +2367,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 189.0,
+	"side_bar_width": 132.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

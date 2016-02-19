@@ -1,0 +1,16 @@
+let foo = 'bar';
+
+for (let i=0; i<3; i++) {
+    console.log(i);
+}
+// 0
+// 1
+// 2
+console.log(i);
+// undefined
+console.log(foo);
+// 'bar'
+
+const thing = 'fixed';
+thing = 'not fixed';
+// throws exception, can't be changed after declaration!

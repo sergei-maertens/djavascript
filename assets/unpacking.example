@@ -1,0 +1,11 @@
+let mylist = ['foo', 'bar', 'baz', 'bat'];
+[foo, bar, ...rest] = mylist;
+console.log(foo);
+// 'foo'
+console.log(bar);
+// 'bar'
+console.log(rest);
+// ['baz', 'bat']
+
+[foo, ,bat] = mylist;
+// middle is ignored

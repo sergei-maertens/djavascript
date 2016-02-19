@@ -1,0 +1,19 @@
+import request from 'api';
+
+// starts the HTTP request, returns promise
+request('GET', '/api/v1/pizzas/pizza/')
+.then(response => {
+    console.log(response.statusCode); // 200
+    if (response.statusCode == 400) {
+        throw Exception('Bad request');
+    }
+    let pizzas = response.content;
+    return pizzas;
+})
+.then(pizzas => {
+    console.log(pizzas); // [{id: 1, name: Hawaii}, {id: 2: name: Margherita}]
+    // implicit `return undefined;` here (like Python's implicit `return None`)
+})
+.catch(exception => {
+    console.log(exception); // Error('Bad request')
+});

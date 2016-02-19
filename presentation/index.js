@@ -173,6 +173,75 @@ export default class Presentation extends React.Component {
           </Slide>
 
 
+          <Slide notes="async options: <ul><li>callback hell</li><li>promises: flattening</li><li>coroutines (asyncio)</li></ul>">
+            <Heading size={6}>ES6 features</Heading>
+            <Heading size={3} textColor="tertiary">Promises</Heading>
+            <CodePane
+              lang="js"
+              source={require("raw!../assets/promises.example")}
+              margin="20px auto"
+            />
+          </Slide>
+
+
+          <Slide notes="maintain scope">
+            <Heading size={6}>ES6 features</Heading>
+            <Heading size={3} textColor="tertiary">Arrow functions</Heading>
+            <CodePane
+              lang="js"
+              source={require("raw!../assets/arrows.example")}
+              margin="20px auto"
+            />
+          </Slide>
+
+
+          <Slide notes="bunch of smaller features">
+            <Heading size={6}>ES6 features (smaller)</Heading>
+            <Heading size={3} textColor="tertiary">'let'/'const' keyword</Heading>
+            <CodePane
+              lang="js"
+              source={require("raw!../assets/let.example")}
+              margin="20px auto"
+            />
+          </Slide>
+
+
+          <Slide notes="bunch of smaller features">
+            <Heading size={6}>ES6 features (smaller)</Heading>
+            <Heading size={3} textColor="tertiary">unpacking</Heading>
+            <CodePane
+              lang="js"
+              source={require("raw!../assets/unpacking.example")}
+              margin="20px auto"
+            />
+            <Text>many more options w/r to objects</Text>
+          </Slide>
+
+
+          <Slide notes="bunch of smaller features">
+            <Heading size={6}>ES6 features (smaller)</Heading>
+            <Heading size={3} textColor="tertiary">template strings</Heading>
+            <CodePane
+              lang="js"
+              source={require("raw!../assets/tpl.example")}
+              margin="20px auto"
+            />
+            <Text textAlign="left"><S type="underline">don't overdo it</S></Text>
+            <Text textAlign="left">use a proper client side template language if needed</Text>
+          </Slide>
+
+
+          <Slide notes="Google is your friend: plenty of (blog) posts that list the features">
+            <Heading size={1}>More features</Heading>
+            <Link href="https://github.com/lukehoban/es6features">
+              <Text lineHeight="4em;" textSize="2em">github.com/lukehoban/es6features</Text>
+            </Link>
+          </Slide>
+
+
+
+
+
 
 
 

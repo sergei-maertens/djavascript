@@ -1,0 +1,5 @@
+let world = {name: 'Earth'};
+
+console.log(`Hello ${world.name}`);
+
+// 'Hello Earth'

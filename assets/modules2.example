@@ -2,6 +2,6 @@
 import FormSet from 'ponyjs/forms/formsets.js'; // FormSet is the default export
 
 export function initForm() {
-    var fs = FormSet('prefix');
+    var fs = new FormSet('prefix');
     // ...
 }

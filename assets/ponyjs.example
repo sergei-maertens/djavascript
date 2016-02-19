@@ -1,0 +1,15 @@
+import Model from 'ponyjs/models.js';
+
+class Album extends Model('Album', {
+    Meta: {
+        app_label: 'albums'
+    }
+}) {}
+
+
+let promise = Album.objects.create({title: 'Pizzas'});
+promise.then(album => {
+    return Album.objects.filter({user: 1}).filter({title__icontains: 'pizzas'});
+}).then(albums => {
+    // do something with Album model instances
+});

@@ -236,7 +236,7 @@ export default class Presentation extends React.Component {
           <Slide notes="Google is your friend: plenty of (blog) posts that list the features">
             <Heading size={1}>More features</Heading>
             <Link href="https://github.com/lukehoban/es6features">
-              <Text lineHeight="4em;" textSize="2em">github.com/lukehoban/es6features</Text>
+              <Text lineHeight={4} textSize="2em">github.com/lukehoban/es6features</Text>
             </Link>
           </Slide>
 
@@ -300,6 +300,56 @@ author: **Guy Bedford**
               </Heading>
             </Appear>
           </Slide>
+
+
+          <Slide transition={["slide"]} notes="in development, loads via AJAX.<br>Production: bundle for speed!">
+            <Heading size={1} textColor="tertiary">Template tag</Heading>
+            <CodePane
+              lang="twig"
+              source={require("raw!../assets/systemjs.example")}
+              margin="20px auto"
+            />
+            <CodePane
+              lang="html"
+              source={require("raw!../assets/systemjs2.example")}
+              margin="20px auto"
+            />
+          </Slide>
+
+
+          <Slide transition={["slide"]}>
+            <Heading size={1} textColor="tertiary">Management command</Heading>
+            <CodePane
+              lang="shell"
+              source={require("raw!../assets/mgmt.example")}
+              margin="20px auto"
+            />
+          </Slide>
+
+
+          <Slide transition={["slide"]} bgImage={images.pony.replace("/", "")} bgDarken={0.9}>
+            <Appear fid="1">
+              <Heading size={1} caps fit textColor="primary">
+                PonyJS
+              </Heading>
+            </Appear>
+            <Appear fid="2">
+              <Heading size={2} lineHeight={3} caps fit textColor="tertiary">
+                very work in progress...
+              </Heading>
+            </Appear>
+          </Slide>
+
+
+          <Slide transition={["slide"]}>
+            <Heading size={1} >Preview</Heading>
+            <CodePane
+              lang="js"
+              source={require("raw!../assets/ponyjs.example")}
+              margin="20px auto"
+            />
+          </Slide>
+
 
         </Deck>
       </Spectacle>

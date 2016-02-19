@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% load systemjs_tags %}
+
+{% block content %}...{% endblock %}
+
+{% block js %}
+    {% systemjs_import 'myapp/frontend.js' %}
+{% endblock %}

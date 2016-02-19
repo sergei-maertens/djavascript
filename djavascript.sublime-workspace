@@ -523,15 +523,7 @@
 			"file": "presentation/index.js",
 			"settings":
 			{
-				"buffer_size": 8629,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "assets/classes.example",
-			"settings":
-			{
-				"buffer_size": 238,
+				"buffer_size": 9266,
 				"line_ending": "Unix"
 			}
 		}
@@ -1086,6 +1078,9 @@
 	],
 	"file_history":
 	[
+		"/home/bbt/presentations/djavascript/assets/tpl.example",
+		"/home/bbt/presentations/djavascript/index.html",
+		"/home/bbt/presentations/djavascript/webpack.config.js",
 		"/home/bbt/presentations/djavascript/.gitignore",
 		"/home/bbt/presentations/djavascript/assets/modules2.example",
 		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/utils/rcx.py",
@@ -1210,10 +1205,7 @@
 		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/templates/school_reservations/groups/full_overview.html",
 		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/static/stylesheets/base/atoms/_content.scss",
 		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/tests/utils.py",
-		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/tests/test_step2.py",
-		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/tests/test_group_edit.py",
-		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/urls.py",
-		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/views/__init__.py"
+		"/home/bbt/coding/maykin/artis-tickets-2/src/artis_tickets/school_reservations/tests/test_step2.py"
 	],
 	"find":
 	{
@@ -1359,6 +1351,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"margin",
+			"size",
+			"link",
+			"title",
 			"markdown",
 			"</Text>",
 			"<S type",
@@ -1482,11 +1478,7 @@
 			"scroll",
 			"value=value",
 			"select",
-			"{{ id_suffix }}",
-			"}}\">\n",
-			"}}{{ id_suffix }}\">",
-			"{{ id_suffix }}",
-			"raw_value"
+			"{{ id_suffix }}"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1521,15 +1513,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8629,
+						"buffer_size": 9266,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4710,
-								4710
+								4401,
+								4401
 							]
 						],
 						"settings":
@@ -1542,41 +1534,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1795.0,
+						"translation.y": 1716.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "assets/classes.example",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 238,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								229,
-								229
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -2156,9 +2117,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "disc",
+		"last_filter": "artisboe",
 		"selected_items":
 		[
+			[
+				"artisboe",
+				"~/coding/maykin/artis-boekingsstraat.sublime-project"
+			],
 			[
 				"disc",
 				"~/coding/discord.sublime-project"

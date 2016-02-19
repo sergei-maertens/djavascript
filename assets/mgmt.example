@@ -1,0 +1,4 @@
+$ python ./manage.py systemjs_bundle
+...
+# Bundled myapp/frontend.js into SYSTEMJS/myapp/frontend.js
+# Post-processed SYSTEMJS/myapp/frontend.js as SYSTEMJS/myapp/frontend.ae75b6ce2.js

@@ -1,0 +1,10 @@
+<body>
+    <script src="/static/jspm_packages/system.js"></script>
+    <script src="/static/config.js"></script>
+    ...
+    <!-- DEBUG=True (or SYSTEMJS_ENABLED=False) -->
+    <script>System.import('myapp/frontend.js');</script>
+
+    <!-- DEBUG=False (or SYSTEMJS_ENABLED=True) -->
+    <script src="/static/SYSTEMJS/myapp/frontend.js"></script>
+</body>

@@ -30,19 +30,12 @@ import preloader from "spectacle/lib/utils/preloader";
 // Import theme
 import createTheme from "spectacle/lib/themes/default";
 
-// Import custom component
-import Interactive from "../assets/interactive";
-
 // Require CSS
 require("normalize.css");
 require("spectacle/lib/themes/default/index.css");
 
 
 const images = {
-  city: require("../assets/city.jpg"),
-  kat: require("../assets/kat.png"),
-  logo: require("../assets/formidable-logo.svg"),
-  markdown: require("../assets/markdown.png"),
   mm: require("../assets/mm.png"),
   hands: require("../assets/hands.jpg"),
   lol: require("../assets/lol.jpg"),
@@ -52,7 +45,8 @@ const images = {
 preloader(images);
 
 const theme = createTheme({
-  primary: "#ff4081"
+  // primary: "#ff4081"
+  primary: "#0C4B33"
 });
 
 export default class Presentation extends React.Component {

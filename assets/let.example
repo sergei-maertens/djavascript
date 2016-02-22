@@ -1,5 +1,4 @@
 let foo = 'bar';
-
 for (let i=0; i<3; i++) {
     console.log(i);
 }
@@ -13,4 +12,4 @@ console.log(foo);
 
 const thing = 'fixed';
 thing = 'not fixed';
-// throws exception, can't be changed after declaration!
+// fails silently in FF and Chrome

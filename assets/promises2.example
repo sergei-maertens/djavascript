@@ -1,0 +1,9 @@
+// continued
+
+promise2.then(pizzas => {
+    console.log(pizzas); // [{id: 1, name: Hawaii}, {id: 2: name: Margherita}]
+    // implicit `return undefined;` here (like Python's implicit `return None`)
+})
+.catch(exception => {
+    console.log(exception); // Error('Bad request')
+});

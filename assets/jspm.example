@@ -1,0 +1,9 @@
+$ jspm install jquery
+$ jspm install npm:momentjs
+$ jspm install ponyjs=github:sergei-maertens/django-ponyjs@0.0.5
+
+# ... do developer stuff
+
+$ jspm bundle src/myproject/myapp/static/js/myapp.js static/myapp/js/myapp.js
+# trick: bundle 3rd party dependencies only
+jspm bundle src/static/app/**/* - [src/static/app/**/*] dist/deps.js

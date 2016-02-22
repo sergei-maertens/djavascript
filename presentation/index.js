@@ -138,11 +138,20 @@ export default class Presentation extends React.Component {
           <Slide notes="let's get to the good bits">
             <Heading size={6}>ES6 features</Heading>
             <Heading size={3} textColor="tertiary">Proper modules</Heading>
+
             <CodePane
               lang="js"
               source={require("raw!../assets/modules1.example")}
               margin="20px auto"
             />
+
+          </Slide>
+
+
+          <Slide notes="let's get to the good bits">
+            <Heading size={6}>ES6 features</Heading>
+            <Heading size={3} textColor="tertiary">Proper modules</Heading>
+
             <CodePane
               lang="js"
               source={require("raw!../assets/modules2.example")}
@@ -165,7 +174,19 @@ export default class Presentation extends React.Component {
             />
 
             <Text textAlign="left">OOP more within reach</Text>
-            <Text textAlign="left">Spread operator (*args, anyone?), defaults</Text>
+            <Text textAlign="left">Spread operator (*args, anyone?) &amp; defaults</Text>
+          </Slide>
+
+
+          <Slide notes="js is single thread non blocking - how to do async?">
+            <Heading size={6}>ES6 features</Heading>
+            <Heading size={3} textColor="tertiary">Async in JS</Heading>
+
+            <List>
+              <Appear><ListItem>Callbacks (NodeJS way)</ListItem></Appear>
+              <Appear><ListItem>Promises</ListItem></Appear>
+              <Appear><ListItem>Coroutines (asyncio)</ListItem></Appear>
+            </List>
           </Slide>
 
 
@@ -175,6 +196,17 @@ export default class Presentation extends React.Component {
             <CodePane
               lang="js"
               source={require("raw!../assets/promises.example")}
+              margin="20px auto"
+            />
+          </Slide>
+
+
+          <Slide notes="async options: <ul><li>callback hell</li><li>promises: flattening</li><li>coroutines (asyncio)</li></ul>">
+            <Heading size={6}>ES6 features</Heading>
+            <Heading size={3} textColor="tertiary">Promises</Heading>
+            <CodePane
+              lang="js"
+              source={require("raw!../assets/promises2.example")}
               margin="20px auto"
             />
           </Slide>
@@ -253,20 +285,6 @@ export default class Presentation extends React.Component {
           </Slide>
 
 
-          <Slide>
-            <Heading size={1} textColor="tertiary">But... why?</Heading>
-            <Text textAlign="left"><Code>jspm install jquery</Code></Text>
-            <Text textAlign="left"><Code>jspm install ponyjs=github:sergei-maertens/django-ponyjs@0.0.5</Code></Text>
-
-            <Markdown>{`
-* supports npm
-* supports github
-* supports 'xyz' through plugins (e.g. bower)
-            `}</Markdown>
-
-          </Slide>
-
-
           <Slide notes="mention Guy Bedford amazeness. <br> mention that you can use it NOW">
             <Heading size={1} textColor="secondary">JSPM/SystemJS</Heading>
 
@@ -277,6 +295,23 @@ author: **Guy Bedford**
 * handles bundling
 * customizable: override dependency 'package.json'
 * loads ES6 modules, CommonJS, AMD - all in one codebase
+            `}</Markdown>
+
+          </Slide>
+
+
+          <Slide>
+            <Heading size={1} textColor="tertiary">But... why?</Heading>
+            <CodePane
+              lang="sh"
+              source={require("raw!../assets/jspm.example")}
+              margin="20px auto"
+            />
+
+            <Markdown>{`
+* supports npm
+* supports github
+* supports 'xyz' through plugins (e.g. bower)
             `}</Markdown>
 
           </Slide>
@@ -303,6 +338,11 @@ author: **Guy Bedford**
               source={require("raw!../assets/systemjs.example")}
               margin="20px auto"
             />
+          </Slide>
+
+
+          <Slide transition={["slide"]} notes="in development, loads via AJAX.<br>Production: bundle for speed!">
+            <Heading size={1} textColor="tertiary">Template tag</Heading>
             <CodePane
               lang="html"
               source={require("raw!../assets/systemjs2.example")}
